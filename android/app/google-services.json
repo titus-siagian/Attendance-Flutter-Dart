@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893092833475",
+    "project_id": "ess-20220314",
+    "storage_bucket": "ess-20220314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893092833475:android:38fbe7fa7c905eeb4bda76",
+        "android_client_info": {
+          "package_name": "com.irisinternational.ess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893092833475-2jql50jbp3e2ct6f8kv67uc1sm3sii2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0q3ocIltELXwdcTqYJ9kIU_6T9shuO2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893092833475-2jql50jbp3e2ct6f8kv67uc1sm3sii2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
