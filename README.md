@@ -1,4 +1,3 @@
-# Attendance-Flutter
 Attendance Application with Flutter
 
 This application is made using Dart / Flutter, the features in this application are in accordance with the attendance standards of several companies, here are the details of the features:
